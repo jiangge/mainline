@@ -1,1 +1,1 @@
-{"event_id":"evt_51e1cc3a","schema_version":1,"event_type":"intent.abandoned","actor_id":"actor_27728b98","actor_name":"jiangge","timestamp":"2026-07-17T12:46:48Z","intent_id":"int_1c1ccc4a","reason":"用户在审查后决定取消本次 skill 自动补装调整并全部回退"}
+{"event_id":"evt_d619d7d1","schema_version":1,"event_type":"intent.abandoned","actor_id":"actor_27728b98","actor_name":"jiangge","timestamp":"2026-07-17T12:46:51Z","intent_id":"int_25dcee74","reason":"用户在审查后决定取消本次 hooks 自动补装调整并全部回退"}
