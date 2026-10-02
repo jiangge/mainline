@@ -296,13 +296,6 @@ func sanitizeExternalContributionID(in string) string {
 	return out
 }
 
-func shortExternalCommit(commit string) string {
-	if len(commit) > 12 {
-		return commit[:12]
-	}
-	return commit
-}
-
 func mergeStringList(existing, additions []string) []string {
 	seen := map[string]bool{}
 	out := make([]string, 0, len(existing)+len(additions))
